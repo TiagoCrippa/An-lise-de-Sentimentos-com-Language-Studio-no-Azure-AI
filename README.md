@@ -60,9 +60,3 @@ Apesar das limitações de acesso à plataforma completa do Azure no momento, o 
 - [Documentação Oficial - Azure AI](https://learn.microsoft.com/en-us/azure/cognitive-services/)
 
 ---
-
-## 🚀 Próximos Passos
-
-- Ativar assinatura gratuita do Azure assim que possível.
-- Aplicar os conhecimentos adquiridos em um projeto prático com dados reais.
-- Explorar integração entre Azure AI e aplicações desenvolvidas em Python ou Node.js.
